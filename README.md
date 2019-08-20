@@ -23,6 +23,12 @@ We also collect some papers about plane&object detection, depth pridiction and s
 
 ## Stereo SLAM
 
+* `IROS2018` DS-SLAM: A Semantic Visual SLAM towards Dynamic Environments [(link)](https://ieeexplore.ieee.org/document/8593691) | [(github)](https://github.com/ivipsourcecode/DS-SLAM)
+  `ORB-SLAM` `semantic segmentation` `depth image` `ROS`
+  Chao Yu ; Zuxin Liu ; Xin-Jun Liu ; Fugui Xie ; Yi Yang ; Qi Wei ; Qiao Fei
+  * SLAM in Dynamic Environments, combine semantic segmentatior with moving consistency check method to filter out dynamic portions of the scene, improve robustness and accuracy in dynamic scenarios.
+  * dense semantic 3D octo-tree map
+
 ## Visual Odemeter(VO)
 
 # Related work
